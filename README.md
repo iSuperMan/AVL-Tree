@@ -1,5 +1,5 @@
 # AVL-Tree
-Simple self-balancing binary search tree
+Simple self-balancing binary search tree on C/C++
 
 - Tree's nodes is a data structure with two member ( value and key)
 - This program have a small menu, which by default start working with start of program
